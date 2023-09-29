@@ -5,10 +5,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: radial-gradient(circle at center, transparent, black), #4a0072;
+    background: radial-gradient(circle at center, transparent, #683FEA), #000;
     color: #fff;
     font-family: 'Freckle Face', cursive;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 #countdown {
