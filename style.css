@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    padding-top: 60px; /* Adjusted for navbar */
     height: 100vh;
     display: flex;
     align-items: center;
@@ -18,4 +19,16 @@ body {
 #countdown {
     text-align: center;
     padding: 20px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
 }
