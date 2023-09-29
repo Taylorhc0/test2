@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle at center, transparent, black), #4a0072;
+    color: #fff;
+    font-family: 'Freckle Face', cursive;
+    font-size: 2em;
+}
+
+#countdown {
+    text-align: center;
+}
