@@ -5,7 +5,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: radial-gradient(circle at center, #131313, #683FEA);
+    background: radial-gradient(circle at center, #683FEA, #131313);
     color: #fff;
     font-family: 'Freckle Face', cursive;
     font-size: 3em;
