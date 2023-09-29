@@ -5,7 +5,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: radial-gradient(circle at center, rgba(104, 63, 234, 0.8) 100%, #131313 100%);
+    background: #131313;
     color: #fff;
     font-family: 'Freckle Face', cursive;
     font-size: 3em;
@@ -13,4 +13,7 @@ body {
 
 #countdown {
     text-align: center;
+    background: radial-gradient(circle at center, rgba(104, 63, 234, 0.8), transparent 90%);
+    padding: 20px;
+    border-radius: 15px;
 }
